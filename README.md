@@ -3,7 +3,7 @@ Segue um resumo sobre mim:
 - 🔭 Atualmente trabalho com texturização de modelos 3D
 - 🌱 Estudando Desenvolvimento Full Stack Java
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: Sou formado em Game Design
+- ⚡ Fun fact: Possuo formação em Game Design
 <!-- 👯 I’m looking to collaborate on ...-->
 <!-- 🤔 I’m looking for help with ...-->
 <!-- 💬 Ask me about ...-->
