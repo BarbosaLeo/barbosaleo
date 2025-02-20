@@ -10,8 +10,8 @@ Segue um resumo sobre mim:
 
 <div>
   <!-- <a href="https://barbosaleo.github.io/"> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbosaleo&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosaleo&layout=compact&theme=dark"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbosaleo&show_icons=true&theme=dark&include_all_commits=true"/> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosaleo&layout=compact&theme=dark"/> -->
 </div>
 
 ## Skills
@@ -25,6 +25,5 @@ Segue um resumo sobre mim:
   <img height="50em" align="center" alt="imagem typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <img height="50em" align="center" alt="imagem spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img height="50em" align="center" alt="imagem react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img height="50em" align="center" alt="imagem mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img height="50em" align="center" alt="imagem powershell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />        
+  <img height="50em" align="center" alt="imagem mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>      
 </div>
