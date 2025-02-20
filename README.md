@@ -1,6 +1,6 @@
 ## Olá! Me chamo Leonardo
 Segue um resumo sobre mim:
-- 🔭 Atualmente trabalho com texturização de modelos 3D
+- 🔭 Atualmente trabalho com Engenharia de Dados
 - 🌱 Estudando Desenvolvimento Full Stack Java
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Possuo formação em Game Design
