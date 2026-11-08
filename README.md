@@ -1,18 +1,4 @@
-## Olá! Me chamo Leonardo
-Segue um resumo sobre mim:
-- 🔭 Atualmente trabalho com Engenharia de Dados
-- 🌱 Estudando Desenvolvimento Full Stack Java
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: Possuo formação em Game Design
-<!-- 👯 I’m looking to collaborate on ...-->
-<!-- 🤔 I’m looking for help with ...-->
-<!-- 💬 Ask me about ...-->
 
-<div>
-  <!-- <a href="https://barbosaleo.github.io/"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbosaleo&show_icons=true&theme=dark&include_all_commits=true"/> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosaleo&layout=compact&theme=dark"/> -->
-</div>
 
 ## Skills
 
